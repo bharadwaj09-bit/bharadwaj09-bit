@@ -13,15 +13,6 @@
 - 🤝 Effective communicator who thrives in **cross-functional teams** and **Agile environments**
 - 💡 Passionate about using data to improve business outcomes and enhance decision-making
 
----
-
-## 💼 Experience Highlights  
-- **Business Data Analyst @ PTC (USA)**  
-  Led end-to-end dashboard development, automated ETL processes, and optimized financial reporting workflows  
-- **Business Analyst Intern @ MetLife (USA)**  
-  Analyzed 2M+ records, built KPI dashboards, and improved claims processing & retention analysis  
-- **Data Analyst @ Sigma InfoSolutions (India)**  
-  Built predictive models, performed A/B testing, and optimized data pipelines for faster insights
 
 ---
 
