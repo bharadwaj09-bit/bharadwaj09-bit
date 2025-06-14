@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Bharadwaj Tadepalli
 
 💼 Business Data Analyst 
-🔍 Turning raw data into actionable insights with 3+ years across Finance, Insurance, and Tech  
+🔍 Turning raw data into actionable insights with 5+ years across Finance, Insurance, and Tech  
 
 ---
 
